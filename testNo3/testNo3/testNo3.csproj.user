@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Eonbotz Randel\Desktop\Randel\GitHubSMS\GitHubSMS\testNo3\testNo3\Properties\PublishProfiles\FolderProfile29.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
   <ItemGroup>
     <Compile Update="FORMS\Course\AddGradeLevel.cs">
       <SubType>Form</SubType>

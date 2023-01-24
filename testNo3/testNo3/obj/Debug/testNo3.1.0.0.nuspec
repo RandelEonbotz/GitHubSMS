@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>testNo3</id>
+    <version>1.0.0</version>
+    <authors>testNo3</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="FontAwesome" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="FontAwesome.Sharp" version="6.1.1" exclude="Build,Analyzers" />
+        <dependency id="LumenWorks.Framework.IO" version="3.8.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ReportingServices.ReportViewerControl.Winforms" version="150.1537.0" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.0.30" exclude="Build,Analyzers" />
+        <dependency id="SqlKata" version="2.3.7" exclude="Build,Analyzers" />
+        <dependency id="SqlKata.Execution" version="2.3.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Messaging" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Net" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Net.Http.WebRequest" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Windows.Forms.DataVisualization" targetFramework=".NETFramework4.8" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Eonbotz Randel\Desktop\Randel\GitHubSMS\GitHubSMS\testNo3\testNo3\bin\Debug\net48\testNo3.exe" target="lib\net48\testNo3.exe" />
+  </files>
+</package>

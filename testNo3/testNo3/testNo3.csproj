@@ -7,6 +7,7 @@
     <SignAssembly>false</SignAssembly>
     <ApplicationIcon>Resources\AMSAI-Logo.ico</ApplicationIcon>
     <Win32Resource />
+    <RepositoryUrl />
   </PropertyGroup>
 
   <ItemGroup>
